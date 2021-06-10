@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "Vishal Mahto",
+      "email": "Vishalmahto0007@gmail.com",
+      "dob": "15/04/1997",
+      "gender": "Male",
+      "address": " H.no.-176, mehala mohalla, madanpur khadar, new delhi-76",
+      "id": 1
+    },
+    {
+      "name": "Raman",
+      "email": "Raman@gmail.com",
+      "dob": "2021-06-09",
+      "gender": "Male",
+      "address": "d4, Sarita Vihar, New Delhi -76",
+      "id": 2
+    }
+  ]
+}
